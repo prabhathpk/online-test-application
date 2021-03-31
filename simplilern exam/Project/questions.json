@@ -1,0 +1,52 @@
+[
+    {
+        "title":"when india got independance?",
+        "choices":[
+            1997,
+            1995,
+            1947,
+            1998
+        ],
+        "correctAnswer":3
+    },
+    {
+        "title":"when india became republic?",
+        "choices":[
+            2010,
+            1958,
+            1951,
+            2006
+        ],
+        "correctAnswer":2
+    },
+    {
+        "title":"our capital?",
+        "choices":[
+            "delhi",
+            "chennai",
+            "bangalore",
+            "kashi"
+        ],
+        "correctAnswer":0
+    },
+    {
+        "title":"no of states?",
+        "choices":[
+            12,
+            20,
+            9,
+            40
+        ],
+        "correctAnswer":3
+    },
+    {
+        "title":"How old is india?",
+        "choices":[
+            12,
+            20,
+            74,
+            16
+        ],
+        "correctAnswer":2
+    }
+]

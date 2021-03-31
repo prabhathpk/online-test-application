@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto Slab', serif;
+	background: #6cf;
+}
+#quiz {
+    width:  50%;
+    margin:  0 auto;
+    padding:  10px 20px 40px 20px;
+    border:  1px solid #ececec;
+}
+.choices {
+    margin:  10px;
+}
+.choice {
+    width: 470px;
+	display: inline-block;
+	padding: 10px 0 10px 15px;
+	vertical-align: middle;
+	background: rgba(255, 255, 255, 0.5);
+	margin: 10px 0 10px 10px;
+	color: #000000;
+	border-radius: 20px;
+}
+
+#finalScore {
+    height: 100px;
+	text-align: center;
+	font-size: 100px;
+}
+
+#question-title {
+    font-size:  26px;
+    padding: 10px;
+}
+
+#next-question {
+    background: #08038C;
+	color: #f6f6f6;
+}
